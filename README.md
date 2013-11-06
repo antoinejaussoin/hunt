@@ -1,4 +1,2 @@
-hunt
-====
-
-A job hunting helper
+# hunt
+### a Sails application
